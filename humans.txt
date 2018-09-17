@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vinollia Mathebula vee@git.training @khalangavee
 
 # THANKS
 
